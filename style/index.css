@@ -19,7 +19,7 @@ body {
     height: 100vh;
     position: relative;
     overflow-x: scroll;
-    background-image: url('https://e0.pxfuel.com/wallpapers/686/151/desktop-wallpaper-playstation-papel-de-parede-lol-papel-de-parede-games-papel-de-parede-android-in-2022-retro-games-video-game-room-decor-cool-for-phones-cool-playstation.jpg');
+    background-image: url('../imagens/fundo-loja.jpg');
     background-position: center center;
     background-size: cover;
 }

@@ -24,8 +24,14 @@ function CarregarImagens()
 
     for (var i = 0; i < imagens.length; i++)
     {
-        
-        switch (i)
+        var c = i;
+
+        while (c > 9)
+        {
+            c -= 10;
+        }
+
+        switch (c)
         {
             case 0:
                 imagens[i].classList.add("item0");
